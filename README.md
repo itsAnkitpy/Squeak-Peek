@@ -1,0 +1,2 @@
+# Squeak-Peek
+Welcome to Squeak Peek, a social media platform that allows you to share your thoughts and ideas with the world. You can follow other users to see their Squeaks (posts) on your homepage feed, interact with them by liking, commenting, and re-Squeaking their content. You can also discover new users and topics through hashtags and trends. So why wait? Join the conversation on Squeak Peek!
